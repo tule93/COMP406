@@ -23,68 +23,72 @@ git push -u --all origin
 
 What is free software?
 
-
+	> You don't have to pay to use the software
 
 What is open source software?
 
-
+	> Users can look at the source code and contribute to it
 
 What's the difference?
 
-
+	> free software: doesn't mean you can contribute to the source code
+	> open source: allows people to contribute to the source code
 
 What does copyleft mean?
 
-
+	> it's not copyright
 
 What does permissive mean?
 
-
+	> permission?
 
 What is a license? What's the difference among them?
 
-
+	> a license: permission to do or use something 
 
 When did open source software start?
 
-
+	> It started a long time ago
 
 What were some major accomplishments in free / open source software?
 
-
+	> Not sure
 
 Who were the key players in free / open source software?
 
-
+	> The owner?
 
 How has free / open source software development changed over the decades?
-
+	
+	> it changes significantly
 
 
 Why do folks write open source software?
 
-
+	> because they want to
 
 Who produces open source software?
 
-
+	> Open source's owner
 
 Who pays for it?
 
-
+	> Not me
 
 Who profits from it?
 
-
+    > People who using it
 
 Who is in control of your computer?
 
-
+	> I do
 
 What do we give up when we cede control to others? What do we gain?
 
-
+	> We gave up our souce code
+	> We gain nothing 
 
 Is it okay for others to decide what you can do with your computer? If so, when?
 
+	> No
 
